@@ -1,5 +1,5 @@
 # c-projects
-Systems Programming with C and C++
+Systems Programming with C
 
 - Operating Systems
 - Networks
